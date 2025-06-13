@@ -1,6 +1,6 @@
 # 💼 Shweta's Portfolio
 
-A clean, responsive personal portfolio website built using **HTML, CSS, and JavaScript**.
+A Portfolio website built using **HTML, CSS, and JavaScript**.
 
 ## 🔍 Features
 - Responsive design
